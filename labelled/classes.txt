@@ -1,3 +1,0 @@
-Racket
-Player
-Ball
