@@ -1,0 +1,10 @@
+path: C:/Users/prashant/OneDrive/Desktop/TaskCV_project/datasets
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Racket
+  1: Player
+  2: Ball

@@ -1,0 +1,55 @@
+# CORE AI / DEEP LEARNING
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+ultralytics==8.4.47
+supervision==0.28.0
+filterpy==1.4.5
+lap==0.5.13
+
+# COMPUTER VISION
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+pillow==10.4.0
+
+# DATA PROCESSING
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# VISUALIZATION
+matplotlib==3.8.4
+seaborn==0.13.2
+contourpy==1.2.1
+fonttools==4.53.1
+
+# DATA & UTILITIES
+tqdm==4.66.4
+requests==2.32.3
+python-dateutil==2.9.0.post0
+pytz==2024.1
+
+# CONFIG / SYSTEM
+PyYAML==6.0.2
+python-dotenv==1.0.1
+typing_extensions==4.12.2
+
+# MACHINE LEARNING SUPPORT
+sympy==1.13.2
+networkx==3.3
+filelock==3.15.4
+mpmath==1.3.0
+
+# IMAGE / DATA HANDLING
+
+pillow-avif-plugin==1.4.6
+pi-heif==0.20.0
+
+
+# OPTIONAL (ANNOTATION / ROBOFLOW)
+roboflow==1.1.49
+
+
+psutil==6.0.0
+
+
