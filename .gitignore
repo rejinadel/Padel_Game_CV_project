@@ -10,3 +10,15 @@ models/*.pt
 
 .DS_Store
 Thumbs.db
+# Videos
+*.mp4
+*.avi
+
+# Output folders
+output/
+data/videos/
+runs/
+
+# Python
+__pycache__/
+*.pyc
