@@ -8,7 +8,7 @@ output_folder = r'C:\Users\prashant\OneDrive\Desktop\TaskCV_project\data\frames'
 # Desired size
 resize_width = 1024
 resize_height = 1024
-filename_prefix = "godrejhaircolor"
+filename_prefix = "padel_analytics"
 
 # Create output folder if not exists
 os.makedirs(output_folder, exist_ok=True)
