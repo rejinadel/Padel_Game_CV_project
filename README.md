@@ -78,8 +78,8 @@ CSV + Visualization
 
 | Class  | mAP   |
 | ------ | ----- |
-| Player | 0.337 |
-| Ball   | 0.820 |
+| Player | 0.820 |
+| Ball   | 0.337 |
 | Racket | 0.324 |
 
 ---
